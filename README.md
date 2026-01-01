@@ -43,12 +43,21 @@ Then open Aether (Super + Space) and select the theme.
 
 ## Wallpapers
 
-Includes 5 official Kingdom Come: Deliverance II wallpapers:
-- Shepherd
-- Riders
-- Rest
-- Marching
-- Bathhouse
+Includes 12 official Kingdom Come: Deliverance wallpapers:
+
+| Wallpaper | Resolution |
+|-----------|------------|
+| Shepherd | 1920x1080 |
+| Rest | 1920x1080 |
+| Marching | 1920x1080 |
+| Bathhouse | 1920x1080 |
+| Hardcore Mode | 1920x1080 |
+| Mysteria | 3840x2160 |
+| Royal Edition | 3840x2160 |
+| Gold Keyart | 3840x2160 |
+| Secondary Keyart | 3840x2160 |
+| Tertiary Keyart | 3840x2160 |
+| Classic KCD | 16:9 |
 
 ## Supported Applications
 
